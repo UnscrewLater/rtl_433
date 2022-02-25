@@ -219,6 +219,7 @@
     DECL(simplisafe_gen3) \
     DECL(yale_hsa) \
     DECL(regency_fan) \
+    DECL(solar_4b6b) \
 
     /* Add new decoders here. */
 
